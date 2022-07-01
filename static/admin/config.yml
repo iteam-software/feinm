@@ -1,0 +1,354 @@
+backend:
+  name: git-gateway
+  repo: iteam-consulting/tonka
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - label: Project
+    name: projects
+    folder: projects
+    description: Use this collection to edit content related to Projects
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the name of the project,
+        }
+      - {
+          label: Slug,
+          name: slug,
+          widget: string,
+          hint: Enter the desired project page slug (e.g. aps-baseball),
+        }
+      - {
+          label: Category,
+          name: category,
+          widget: relation,
+          hint: Select the project's category here,
+          collection: categories,
+          searchFields: [title],
+          valueField: title,
+          displayFields: [title],
+          multiple: true,
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+      - {
+          label: Project Images,
+          name: projectImages,
+          widget: list,
+          hint: Select the images associated with this project,
+          field:
+            {
+              label: Images,
+              name: images,
+              widget: image,
+              allow_multiple: true,
+            },
+        }
+
+  - label: Categories
+    name: categories
+    folder: categories
+    description: Use this collection to add or remove project categories
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the category name,
+        }
+      - {
+          label: Slug,
+          name: slug,
+          widget: string,
+          hint: Enter the desired category page slug (e.g. public-works),
+        }
+
+  - label: Employee Announcements
+    name: employeeAnnouncements
+    folder: employee-page/employeeAnnouncements
+    description: Use this collection to add or remove employee announcements
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the announcement title,
+        }
+      - {
+          label: Description,
+          name: description,
+          widget: text,
+          hint: Enter the announcement description,
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+
+  - label: Employee Calendars
+    name: employeeCalendars
+    folder: employee-page/employeeCalendars
+    description: Use this collection to add or remove employee calendars
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the calendar title,
+        }
+      - {
+          label: Image,
+          name: calendarImage,
+          widget: image,
+          hint: Select the calendar image,
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+
+  - label: Employee Memos
+    name: employeeMemos
+    folder: employee-page/employeeMemos
+    description: Use this collection to add or remove employee memos
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the memo title,
+        }
+      - { label: File, name: file, widget: file, hint: Select the memo file }
+      - {
+          label: State,
+          name: state,
+          widget: select,
+          options: ["Published", "Archived"],
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: Select the memo state (Published or Archived),
+        }
+
+  - label: Employee Newsletter
+    name: employeeNewsletter
+    folder: employee-page/employeeNewsletters
+    description: Use this collection to add or remove employee newsletters
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the newsletter title,
+        }
+      - {
+          label: File,
+          name: file,
+          widget: file,
+          hint: Select the newsletter file,
+        }
+      - {
+          label: State,
+          name: state,
+          widget: select,
+          hint: Select the newsletter state (Published or Archived),
+          options: ["Published", "Archived"],
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+
+  - label: Employee Pictures
+    name: employeePictures
+    folder: employee-page/employeePictures
+    description: Use this collection to add or remove employee pictures
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the picture title,
+        }
+      - {
+          label: Image,
+          name: image,
+          widget: image,
+          hint: Select the picture file,
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+
+  - label: News
+    name: news
+    folder: news
+    description: Use this collection to add or remove news items
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the news title,
+        }
+      - {
+          label: State,
+          name: state,
+          widget: select,
+          hint: "Select the news state (Draft, Published, or Archived)",
+          options: ["Draft", "Published", "Archived"],
+        }
+      - {
+          label: Published Date,
+          name: publishedDate,
+          widget: datetime,
+          hint: If you'd like to change the publication date you can do so using this field,
+        }
+      - {
+          label: Images,
+          name: images,
+          widget: image,
+          hint: Select the image associated with this news item,
+        }
+      - {
+          label: Description,
+          name: description,
+          widget: string,
+          hint: Enter the description of this news item,
+        }
+      - {
+          label: Body,
+          name: body,
+          widget: markdown,
+          hint: This is the body of the news item. This editor supports both rich-text and markdown entries,
+        }
+      - {
+          label: Slug,
+          name: slug,
+          widget: string,
+          hint: Enter the desired news item page slug (e.g. news-item-1),
+        }
+
+  - label: Position
+    name: position
+    folder: positions
+    description: Use this collection to add or remove job positions
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the position title,
+        }
+      - {
+          label: State,
+          name: state,
+          widget: select,
+          hint: "Select the state of this position (Draft, Published, or Archived)",
+          options: ["Draft", "Published", "Archived"],
+        }
+      - {
+          label: Body,
+          name: body,
+          widget: markdown,
+          required: false,
+          hint: This is the body of the position item. This editor supports both rich-text and markdown entries,
+        }
+
+  - label: Services
+    label_singular: Service
+    name: services
+    folder: services
+    description: Use this collection to add or remove images from the services carousels. To add or remove service carousels, please contact iTeam Software (software@iteamnm.com)
+    create: true
+    fields:
+      - {
+          label: Title,
+          name: title,
+          widget: string,
+          hint: Enter the carousel title,
+        }
+      - {
+          label: Headline,
+          name: headline,
+          widget: string,
+        }
+      - {
+          label: Subhead,
+          name: subhead,
+          widget: string,
+        }
+      - {
+          label: Specializations,
+          name: specializations,
+          widget: list,
+          field: 
+          {
+            label: specialty,
+            name: specialty,
+            widget: string
+          }
+        }
+      - {
+          label: Carousel Images,
+          name: carouselImages,
+          widget: list,
+          hint: Select the images for this carousel,
+          field:
+            {
+              label: Images,
+              name: images,
+              widget: image,
+              allow_multiple: true,
+            }
+        }
+      - {
+          label: Videos,
+          name: videos,
+          widget: list,
+          hint: Select the images for this carousel,
+          fields: [
+            {
+              label: video_title,
+              name: video_title,
+            },
+            {
+              label: video_link,
+              name: video_link,
+            },
+            {
+              label: "ID", 
+              name: "id",
+              widget: "id"      
+            }
+            ]           
+        }

@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/splash.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/fog-seal.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/crack-seal.mp4 filter=lfs diff=lfs merge=lfs -text

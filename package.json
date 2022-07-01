@@ -1,0 +1,59 @@
+{
+  "name": "tonka",
+  "private": true,
+  "description": "A rewrite of Franklin's Earthmoving Inc. website using Gatsby and Netlify CMS",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "yarn develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "bootstrap": "^4.4.1",
+    "dotenv": "^8.2.0",
+    "flex-banner": "^2.2.2",
+    "gatsby": "^2.24.77",
+    "gatsby-image": "^2.2.43",
+    "gatsby-plugin-layout": "^1.1.23",
+    "gatsby-plugin-netlify-cms": "^4.1.41",
+    "gatsby-plugin-react-helmet": "^3.3.1",
+    "gatsby-plugin-sharp": "^2.4.12",
+    "gatsby-plugin-theme-ui": "^0.3.0",
+    "gatsby-remark-images": "^3.3.1",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^2.1.51",
+    "gatsby-transformer-remark": "^2.6.59",
+    "gatsby-transformer-sharp": "^2.3.18",
+    "lodash": "^4.17.15",
+    "netlify-cms-app": "^2.11.27",
+    "netlify-cms-widget-simple-uuid": "^0.0.2",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-click-outside-hook": "^1.1.1",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0",
+    "react-player": "^2.6.2",
+    "theme-ui": "^0.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-loader": "^4.0.2",
+    "gatsby-plugin-eslint": "^2.0.8",
+    "prettier": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

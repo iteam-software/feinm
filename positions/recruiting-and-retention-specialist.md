@@ -1,0 +1,11 @@
+---
+title: Recruiting and Retention Specialist
+state: Archived
+---
+SUMMARY: This position is responsible for recruiting interviewing and hiring personnel for various positions in compliance with all EEO regulations; strictly adhering to all employment authorization guidelines in accordance with corporate local state and federal laws and regulations; partners with department managers to establish staffing guidelines; maintaining accurate records and ensuring complete documentation; interpreting and administering policies in a fair and consistent manner; managing the Team Member retention program; representing the company at Unemployment Appeal hearings; posting employment advertisements and tracking applicant flow to ensure the company is in adherence with Federal, State and Local standards; and performing other HR responsibilities as the need arises; coordinates and conducts exit interviews provides turnover analysis and related recommendations; Other duties as required in support of the overall HR / Payroll department mission.
+
+REQUIREMENTS: Education: Bachelor’s degree or equivalent work experience. Experience: 5 plus years HR experience preferred. Computer Skills: Standard computer skills including generating simple letters spreadsheet and or graphics creating simple queries; proficiency with Excel, PowerPoint, E-Verify, Communication Skills: Strong verbal and written communication, internet recruitment skills; Bilingual (English and Spanish) preferred
+
+Candidate must pass pre-employment drug screen/physical/background check and e-verify. Company provides Competitive Wages, Health Insurance, Profit Sharing, Bonus, Vacation and Sick Leave.
+
+Franklin’s Earthmoving, Inc. is a reputable established company formed in 1958 in Albuquerque, New Mexico. Company provides turnkey solutions for commercial, residential and public works clients including Earthwork, Underground Utilities, Concrete and Asphalt. Franklin’s is well-known for its quality and stability in the community. This is a great opportunity for the right candidate who may be looking forward to growth, stability and learning.
