@@ -1,6 +1,6 @@
 ---
 title: Heavy Equipment Transport Driver
-state: Archived
+state: Published
 ---
 STAY LOCAL AND EARN TOP PAY!  Franklin’s Earthmoving, Inc. is currently seeking an EXPERIENCED HEAVY  CONSTRUCTION EQUIPMENT TRANSPORT DRIVER – Local work only!  
 
