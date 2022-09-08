@@ -1,4 +1,4 @@
 ---
 title: Screed Operator
-state: Published
+state: Archived
 ---
