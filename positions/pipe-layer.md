@@ -1,6 +1,6 @@
 ---
 title: Pipe Layer
-state: Published
+state: Archived
 ---
 
 Must have prior pipe laying experience in underground wet utilities
