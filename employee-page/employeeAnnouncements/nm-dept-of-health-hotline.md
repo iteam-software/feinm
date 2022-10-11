@@ -1,8 +1,10 @@
 ---
 title: NM Dept of Health Hotline
-description: If you are having symptoms of the COVID-19, DO NOT COME TO
-  WORK!  STAY HOME and notify Franklin's HR department.  You may also contact
-  the NM Dept of Health 855-600-3453. They will discuss your condition and tell
-  you what steps you need to take.
-publishedDate: 2022-06-28T16:24:14.271Z
+description: >-
+  If you are having symptoms of COVID-19, DO NOT COME TO WORK!  STAY HOME and
+  notify Franklin's HR department.  It is best to test if you have been exposed
+  to a known positive person or if you have symptoms.
+
+  If you test positive for COVID-19, please stay home and contact Cecilia Finch at 505-796-5455 to discuss your next steps before returning to work.
+publishedDate: 2022-10-11T19:18:47.568Z
 ---
