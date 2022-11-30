@@ -3,4 +3,4 @@ title: Concrete Finishers
 state: Published
 ---
 
-Experienced Concrete Finishers and Formsetters for local work - excellent wage and healthcare benefit package
+Experienced Concrete Finishers needed.  Local work only - excellent wage and free family medical and vision benefit package
