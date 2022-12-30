@@ -6,6 +6,6 @@ description: Also known as the new "HWA" or "Paid Sick Leave" went into effect
   should be directed to Cecilia, Annette or Maria in the FEI Office.  Please
   make sure you are clocked in to the appropriate time off code in Busy-Busy and
   that the appropriate box is marked on your absence slip if you wish to use
-  your paid sick leave for your health-related absence.
+  your available paid sick leave for any health-related absence.
 publishedDate: 2022-11-30T23:15:37.225Z
 ---
