@@ -1,6 +1,6 @@
 ---
 title: Heavy Equipment / Shop Mechanic
-state: Published
+state: Archived
 ---
 STAY LOCAL, EARN TOP PAY AND FREE FAMILY MEDICAL INSURANCE!
 
