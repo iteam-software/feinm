@@ -1,6 +1,6 @@
 ---
 title: Estimator
-state: Published
+state: Archived
 ---
 
 **CONSTRUCTION ESTIMATOR**
