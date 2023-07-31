@@ -6,19 +6,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import AboutUs from "../components/AboutUs";
 import LatestProjects from "../components/LatestProjects";
 import splashVideo from "../assets/splash.mp4";
-import FlexBanner from "flex-banner";
 
 const HomePage = () => {
   return (
     <>
-      <FlexBanner
-        title="We offer sign-on and referral bonuses for employees! Apply Today!"
-        ctaLink="https://feinm.com/jobs"
-        isCenter={true}
-        wrapperStyle={{ backgroundColor: "var(--theme-ui-colors-primary,#ffb510)" }}
-        mainStyleTitle={{ color: "black" }}
-        crossStyle={{ color: "black" }}
-      />
       <div
         className="position-relative d-flex justify-content-center align-items-center"
         style={{ height: "50vh", width: "100%", overflow: "hidden" }}
