@@ -6,7 +6,7 @@ import { jsx } from "theme-ui";
 const EmployeeKioskButton = () => (
   <div className="text-center">
     <Button
-      href="https://spectrum.franklinsearthmoving.com/"
+      href="https://franklinsearthmoving.dexterchaney.com"
       target="_blank"
       rel="noreferrer noopener"
       className="btn btn-lg text-dark"
