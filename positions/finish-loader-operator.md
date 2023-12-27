@@ -1,5 +1,5 @@
 ---
-title: Finish Loader Operator
+title: Loader Operator
 state: Published
 ---
-Experienced Finish Loader Operator needed - must have prior finish grade experience
+Experienced Loader Operator needed - must have prior experience on commercial/residential/civil construction projects
