@@ -8,5 +8,5 @@ description: >-
 
 
   **The company Christmas party will be held on December 14th at Isleta resort and Casino - this is for employees and one guest to enjoy diner, dancing, raffles and more.  Rooms will be available at a discounted price.  More information will be available in the coming months.
-publishedDate: 2024-02-28T19:53:53.043Z
+publishedDate: 2024-02-28T20:01:18.001Z
 ---
