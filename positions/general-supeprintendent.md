@@ -1,6 +1,6 @@
 ---
 title: General Superintendent
-state: Published
+state: Archived
 ---
 
 ## **GENERAL SUPERINTENDENT**
