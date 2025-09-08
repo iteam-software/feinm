@@ -1,6 +1,6 @@
 ---
 title: Grade Checker
-state: Published
+state: Archived
 ---
 
 Experienced Grade Checker needed for site prep - must have prior experience.
