@@ -1,6 +1,6 @@
 ---
 title: General Laborer
-state: Published
+state: Archived
 ---
 
 General Laborers needed. Prior construction experience preferred.
