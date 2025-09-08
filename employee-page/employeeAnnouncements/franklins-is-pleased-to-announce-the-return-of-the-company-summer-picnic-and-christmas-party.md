@@ -1,12 +1,11 @@
 ---
-title: "Franklin's is pleased to announce the return of the company summer
-  picnic and Christmas party!  "
+title: "Franklin's is pleased to announce the 2025 company Christmas party!  "
 description: >-
-  **Our summer picnic will be held on June 8th at Isleta Lakes.  Bring the
-  family, play some games, enjoy some great food and get to know the rest of
-  your FEI family!
+  The 2025 company Christmas party will be held on December 20th at Isleta
+  resort and Casino - this is for employees and one guest to enjoy diner,
+  dancing, raffles and more.  Rooms will be available at a discounted price.  
 
 
-  **The company Christmas party will be held on December 14th at Isleta resort and Casino - this is for employees and one guest to enjoy diner, dancing, raffles and more.  Rooms will be available at a discounted price.  More information will be available in the coming months.
-publishedDate: 2024-02-28T20:01:18.001Z
+  RSVP IS REQUIRED!  For more information, please contact Cecilia at 505-453-8540 or Jeanette at 505-221-0460.
+publishedDate: 2025-09-08T16:56:35.053Z
 ---
