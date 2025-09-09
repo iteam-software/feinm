@@ -108,9 +108,9 @@ const JobsPage = () => {
                   filter: "brightness(.9)",
                 },
               }}
-              href="mailto:info@franklinsearthmoving.com?subject=Benefit%20Questions"
+              href="mailto:Cecilia.finch@feinm.com?subject=Benefit%20Questions"
             >
-              info@franklinsearthmoving.com&nbsp;
+              Cecilia.finch@feinm.com&nbsp;
             </a>
             for more information.
           </p>
