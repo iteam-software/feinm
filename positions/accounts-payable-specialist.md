@@ -1,6 +1,6 @@
 ---
 title: Accounts Payable Specialist
-state: Published
+state: Archived
 ---
 Franklin's Earthmoving, Inc., EEOC is currently seeking an experienced Accounts Payable Specialist.  Must have prior construction accounting experience. General responsibilities include but are not limited to AP Cycle - posting and paying invoices, matching AP invoices to statements, tracking job costs, lien waiver compliance, vendor management, complete and submit AP Credit applications, assist in front desk responsibilities such as issuing purchase orders, greeting office visitors and answering phones.  
 
