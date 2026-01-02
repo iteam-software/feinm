@@ -1,8 +1,15 @@
 ---
-title: 2025 Tax forms and New OBBB Overtime information
-description: The 2025 year-end tax forms are currently being processed and will
-  be sent out in the next 1-2 weeks.  Please make sure your email and mailing
-  address is current.  If there have been any changes to either, please call the
-  office and update your information.
+title: New OBBB Overtime information
+description: >-
+  The new "One Big Beautiful Bill" included a new Tax on Overtime rule.  The
+  2025 W2 forms do not have a designated area to record this information so if
+  you need to get the breakdown of your overtime hours, please call Maria
+  Rascon, Cecilia Finch or Annette Blackwell at 505-884-6947 and we will provide
+  you that report.  
+
+
+  PLEASE NOTE:
+
+  Franklin's employees are not certified tax advisors so if you have questions regarding how to file the overtime hours on your tax return, you will need to consult a tax professional.
 publishedDate: 2026-01-02T19:22:09.116Z
 ---
