@@ -1,11 +1,8 @@
 ---
-title: "Franklin's is pleased to announce the 2025 company Christmas party!  "
-description: >-
-  The 2025 company Christmas party will be held on December 20th at Isleta
-  resort and Casino - this is for employees and one guest to enjoy diner,
-  dancing, raffles and more.  Rooms will be available at a discounted price.  
-
-
-  RSVP IS REQUIRED!  For more information, please contact Cecilia at 505-453-8540 or Jeanette at 505-221-0460.
-publishedDate: 2025-09-08T16:56:35.053Z
+title: 2025 Tax forms and New OBBB Overtime information
+description: The 2025 year-end tax forms are currently being processed and will
+  be sent out in the next 1-2 weeks.  Please make sure your email and mailing
+  address is current.  If there have been any changes to either, please call the
+  office and update your information.
+publishedDate: 2026-01-02T19:22:09.116Z
 ---
