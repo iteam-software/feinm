@@ -1,6 +1,6 @@
 ---
 title: Dirt Foreman
-state: Published
+state: Archived
 ---
 **About the Position:**
 
