@@ -1,6 +1,6 @@
 ---
 title: Safety Manager
-state: Archived
+state: Published
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
