@@ -1,6 +1,6 @@
 ---
 title: Heavy Equipment Diesel Mechanic
-state: Archived
+state: Published
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
